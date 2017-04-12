@@ -1,0 +1,12 @@
+indexing
+'abc'[0] returns a
+'abc'[-1] returns c
+'abc'[10] returns an out of bounds error
+
+
+slicing 
+'abs'[1:2] returns abs
+'abs'[:30] returns abs
+'abs'[1:] returns bs
+
+raw_input() -> input() for python 3

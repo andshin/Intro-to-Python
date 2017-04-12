@@ -1,3 +1,5 @@
+#book page 20
+
 #write a program that asks the user to input 10 integeres, 
 #and the nprints the largest odd number that was entered.
 #if no odd nubmer entered it should print a msg to that effect.
